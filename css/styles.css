@@ -1,0 +1,28 @@
+.head {
+    left: 0px;
+    top: 0px;
+    background: white;
+}
+
+.nav {
+}
+
+.nav-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+    text-decoration: none;
+   
+}
+
+.nav a span {
+    color: black;
+}
+
+.head-type {
+    list-style: none;
+}
