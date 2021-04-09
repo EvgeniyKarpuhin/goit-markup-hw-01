@@ -3,6 +3,7 @@ body {
     background: #E5E5E5;
     color: black;
     margin: 0;
+    padding: 0;
 }
 
 p {
@@ -23,8 +24,8 @@ h1 {
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-
-color: #FFFFFF;
+    color: #FFFFFF;
+}
 
 .head {
     left: 0px;
@@ -48,6 +49,10 @@ color: #FFFFFF;
 
 .head-type {
     list-style: none;
+}
+
+.decision {
+    background-color: #2F303A;
 }
 
 .head-text {
