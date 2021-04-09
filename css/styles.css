@@ -12,6 +12,7 @@ p {
 }
 
 a {
+    font-family: 'Raleway', sans-serif;
     text-decoration: none;
     font-weight: bold;
     color: black;
@@ -27,15 +28,15 @@ h1 {
     color: #FFFFFF;
 }
 
+ul {
+    list-style: none;
+}
+
 .head {
-    left: 0px;
-    top: 0px;
     background: white;
 }
 
 .nav-logo {
-    font-family: 'Raleway';
-    font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -47,8 +48,25 @@ h1 {
     color: black;
 }
 
-.head-type {
-    list-style: none;
+.nav-website {
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+   
+}
+
+.nav-website:hover {
+    color: #2196F3;
+}
+
+.head-adress a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+  
 }
 
 .head-text {
