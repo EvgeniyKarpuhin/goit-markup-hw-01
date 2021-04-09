@@ -28,6 +28,10 @@ h1 {
     color: #FFFFFF;
 }
 
+h2 {
+    text-align: center;
+}
+
 ul {
     list-style: none;
 }
@@ -52,11 +56,18 @@ ul {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-   
 }
 
 .nav-website:hover {
     color: #2196F3;
+}
+
+.head-adress {
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .head-adress a {
@@ -66,20 +77,23 @@ ul {
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #757575;
-  
+}
+
+.head-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.head-link:hover {
+    color: #2196F3;
 }
 
 .head-text {
     font-size: 14px;
     line-height: 1.71;
-}
-
-.head-link {
-    color: #757575;
-}
-
-.head-type a:hover {
-    color: #2196F3;
 }
 
 .type-text {
@@ -139,22 +153,5 @@ ul {
     font-size: 14px;
     line-height: 1.71;
     color: #FFFFFF;
-}
-
-.head-adress {
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: rgba(255, 255, 255, 0.6);
- 
-}
-
-.head-adress a {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
-    color: #757575;
 }
 
